@@ -23,7 +23,7 @@
     "tests"
   ],
   "dependencies": {
-    "elastic.js": ">=1.2.0"
+    "elastic.js": "git@github.com:strets123/elastic.js.git#master"
   },
   "keywords": [
     "elasticsearch",
